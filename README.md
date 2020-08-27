@@ -11,8 +11,15 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a lear
 |🎫 [Ticketo5](https://github.com/JonathanGun/ticketo5)                                               | Web App (Simple CRUD) | C# .NET Core             |
 |😎 [Personal Website](https://jonathangun.github.io/)                                                | Simple Website        | Pure HTML & CSS          |
 
-## 🏆 Awards
+## 💼 Experience
+| Roles | Type | Location | Duration | From-Until |
+|-------------|-------|------|------|-------------|
+| Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.itb.ac.id/) | N/A | August 2020 - present |
+| Backend Developer | Internship | [Xtremax Indonesia](https://www.linkedin.com/company/xtremax/) | 3 months | May 2020 - August 2020 |
+| IT | Volunteer | Karang Praga ITB | 2 months | November 2019 - January 2020 |
+| QMS | Internship | Cipta Wijaya Mandiri | 1 month | May 2019 - June 2019 |
 
+## 🏆 Awards
 | Achievement | Scope | Name | Year | Description |
 |-------------|-------|------|------|-------------|
 | 45th of 9400 teams | International | IEEEXTREME 13.0 International Competitive Programming Competition | 2019 | IEEEXtreme is a global challenge in which teams compete in a 24-hour time span against each other to solve a set of programming problems. |
@@ -23,6 +30,8 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a lear
 
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jonathangun&show_icons=true)
----
+
+
+## Contact Me
 You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathan-yudi-gunawan-80b67a19a/), p.s: I'm currently looking for job opportunities, peek my CV there!
 

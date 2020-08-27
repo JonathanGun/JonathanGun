@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Introduction
-I'm [Jonathan Yudi Gunawan](https://jonathan-profile.netlify.app/), currently on a learning journey on ITB as an Informatics Engineering undergraduate of year 2018. I love computer science and software engineering topics. Get in touch with me!
+I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a learning journey on ITB as an Informatics Engineering undergraduate of year 2018. I love computer science and software engineering topics. Get in touch with me!
 
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |

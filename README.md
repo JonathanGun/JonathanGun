@@ -13,16 +13,16 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a lear
 
 ## 🏆 Awards
 
-| Achievement | Scope | Name | Date | Description |
+| Achievement | Scope | Name | Year | Description |
 |-------------|-------|------|------|-------------|
-| Top 100 (ranked 45 out of 9400 teams) | International | IEEEXTREME 13.0 International Competitive Programming Competition | Oct 2019 | IEEEXtreme is a global challenge in which teams compete in a 24-hour time span against each other to solve a set of programming problems. |
-| 3rd Place | Local | ITB - NTUST Cloud Computing Hackathon | Sep 2019 | Cloud Computing Hackathon held in ITB by NTUST Taiwan |
-| 3rd Place | National | Kompetisi Puzzle Klasik (KPK) | Okt 2019 | pen-and-paper puzzle solving competition |
+| 45th of 9400 teams | International | IEEEXTREME 13.0 International Competitive Programming Competition | 2019 | IEEEXtreme is a global challenge in which teams compete in a 24-hour time span against each other to solve a set of programming problems. |
+| 3rd Place | Local | ITB - NTUST Cloud Computing Hackathon | 2019 | Cloud Computing Hackathon held in ITB by NTUST Taiwan |
+| 13th Place | National | Cyber Security Community (CSC) BINUS | 2019 | Capture The Flag |
+| 3rd Place | National | Kompetisi Puzzle Klasik (KPK) | 2019 | pen-and-paper puzzle solving competition |
 | 33rd Place | National | ICPC Asia Singapore Regional | 2018 | Competitive Programming |
-| 13th place | National | Cyber Security Community (CSC) BINUS | 2019 | Capture The Flag |
 
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jonathangun&show_icons=true)
 ---
-You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathan-yudi-gunawan-80b67a19a/)
+You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathan-yudi-gunawan-80b67a19a/), p.s: I'm currently looking for job opportunities, peek my CV there!
 

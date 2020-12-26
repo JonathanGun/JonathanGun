@@ -22,12 +22,12 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a lear
 ## 🏆 Awards
 | Achievement | Scope | Name | Year | Description |
 |-------------|-------|------|------|-------------|
+| 22nd Place, Silver Medalist | Multi-National | ICPC Asia Singapore Regional | 2020 | Competitive Programming held by ACM ICPC - Binus |
+| Top 15 | National | National Data Science Competition (NDSC) | 2020 | Data Science competition held by Shopee |
 | 88th of 3700 teams | International | IEEEXTREME 14.0 International Competitive Programming Competition | 2020 | IEEEXtreme is a global challenge in which teams compete in a 24-hour time span against each other to solve a set of programming problems. |
-| 45th of 4100 teams | International | IEEEXTREME 13.0 International Competitive Programming Competition | 2019 | IEEEXtreme is a global challenge in which teams compete in a 24-hour time span against each other to solve a set of programming problems. |
 | 3rd Place | Local | ITB - NTUST Cloud Computing Hackathon | 2019 | Cloud Computing Hackathon held in ITB by NTUST Taiwan |
 | 13th Place | National | Cyber Security Community (CSC) BINUS | 2019 | Capture The Flag |
 | 3rd Place | National | Kompetisi Puzzle Klasik (KPK) | 2019 | pen-and-paper puzzle solving competition |
-| 33rd Place | National | ICPC Asia Singapore Regional | 2018 | Competitive Programming |
 
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jonathangun&show_icons=true)

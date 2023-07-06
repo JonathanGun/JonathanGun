@@ -1,7 +1,9 @@
 ## 💬 Introduction
-I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a learning journey on ITB as an Informatics Engineering undergraduate of year 2018. I love computer science and software engineering topics. Get in touch with me!
+
+I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently landed in GoTo Financial as a Infrastructure Engineering. It is such a blessing to work here. I was a graduate from ITB as an Informatics Engineering on 2022. I love computer science and software engineering topics. Get in touch with me!
 
 ## 🌱 Featured Projects
+
 | Project | Short Description | Language and Stack Used |
 |---------|-------------------|-------------------------|
 |🧩 [Masyu Solver](https://github.com/JonathanGun/masyu-solver)                                       | Puzzle Solver         | Pure Python              |
@@ -12,6 +14,7 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a lear
 |😎 [Personal Website](https://jonathangun.github.io/)                                                | Simple Website        | Pure HTML & CSS          |
 
 ## 💼 Experience
+
 | Roles | Type | Location | Duration | From-Until |
 |-------------|-------|------|------|-------------|
 | Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.itb.ac.id/) | N/A | August 2020 - present |
@@ -20,6 +23,7 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a lear
 | QMS | Internship | Cipta Wijaya Mandiri | 1 month | May 2019 - June 2019 |
 
 ## 🏆 Awards
+
 | Achievement | Scope | Name | Year | Description |
 |-------------|-------|------|------|-------------|
 | 22nd Place, Silver Medalist | Multi-National | ICPC Asia Singapore Regional | 2020 | Competitive Programming held by ACM ICPC - Binus |
@@ -30,9 +34,11 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently on a lear
 | 3rd Place | National | Kompetisi Puzzle Klasik (KPK) | 2019 | pen-and-paper puzzle solving competition |
 
 ## ⚡ More Info
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jonathangun&show_icons=true)
 
 
 ## Contact Me
-You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathan-yudi-gunawan-80b67a19a/), p.s: I'm currently looking for job opportunities, peek my CV there!
+
+You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathanyudigun).
 

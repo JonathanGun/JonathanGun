@@ -1,37 +1,63 @@
 ## 💬 Introduction
 
-I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently landed in GoTo Financial as a Infrastructure Engineering. It is such a blessing to work here. I was a graduate from ITB as an Informatics Engineering on 2022. I love computer science and software engineering topics. Get in touch with me!
+Infrastructure / platform engineer building self‑service database & developer tooling at scale. At GoTo Financial (GoPay) I help operate and evolve 100+ data backends (PostgreSQL, Redis, MongoDB, Kafka) through automation, governance, and cloud migration initiatives (from AWS to Alicloud). Competitive programming background (ICPC Silver, Top 100 IEEEXTREME) + strong focus on reliability, performance, and developer experience.
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/jonathanyudigun) · Email: [jonathanyudigun@gmail.com](mailto:jonathanyudigun@gmail.com) · Personal Site: [jonathangun.github.io](https://jonathangun.github.io/personal-website/)
 
 ## 🌱 Featured Projects
 
-| Project | Short Description | Language and Stack Used |
-|---------|-------------------|-------------------------|
-|🧩 [Masyu Solver](https://github.com/JonathanGun/masyu-solver)                                       | Puzzle Solver         | Pure Python              |
-|🔍 [Keyword Extractor](https://github.com/JonathanGun/Covid-keyword-extractor)                       | Simple Website        | Python Flask + bootstrap |
-|📐 [Convex Hull Finder](https://github.com/JonathanGun/Convex-Hull-Finder)                           | Desktop & Native App  | Java Processing          |
-|🧠 [Avatar Strategy Game](https://github.com/JonathanGun/Avatar-World-War-Multiplayer-Strategy-Game) | Command Line Game     | Pure C                   |
-|🎫 [Ticketo5](https://github.com/JonathanGun/ticketo5)                                               | Web App (Simple CRUD) | C# .NET Core             |
-|😎 [Personal Website](https://jonathangun.github.io/)                                                | Simple Website        | Pure HTML & CSS          |
+| Project                                                                                                    | Short Description                             | Language and Stack Used                |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------- |
+| 🤖 [Tha-GPT](https://thagpt-182249571755.asia-southeast2.run.app)                                           | Unified LLM chat (ChatGPT, Claude, self-host) | LibreChat + OpenAI + Anthropic         |
+| 📄 [Property Marketing Agreement System](https://github.com/JonathanGun/perjanjian-jasa-pemasaran-properti) | Digital property agreements (PDF + e-sign)    | Python + Cloud Run + Google Drive      |
+| 🛒 [E-commerce + Admin Dashboard](https://github.com/JonathanGun/choco-factory-php)                         | Full MERN-like platform & admin panel         | MongoDB + Express + React + Node + PHP |
+| 🎮 [Minecraft Server Dashboard](https://github.com/JonathanGun/minecraft-server-controller-ui)              | Real-time private server management           | React + Python + Cloud Run             |
+| 🧩 [Masyu Puzzle Solver](https://github.com/JonathanGun/masyu-solver)                                       | Computer vision + logic puzzle solver         | Python + OpenCV                        |
+| 😎 [Personal Website](https://jonathangun.github.io/)                                                       | Portfolio & project showcase                  | Gatsby + React + TailwindCSS           |
 
 ## 💼 Experience
 
-| Roles | Type | Location | Duration | From-Until |
-|-------------|-------|------|------|-------------|
-| Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.itb.ac.id/) | N/A | August 2020 - present |
-| Backend Developer | Internship | [Xtremax Indonesia](https://www.linkedin.com/company/xtremax/) | 3 months | May 2020 - August 2020 |
-| IT | Volunteer | Karang Praga ITB | 2 months | November 2019 - January 2020 |
-| QMS | Internship | Cipta Wijaya Mandiri | 1 month | May 2019 - June 2019 |
+| Role                               | Type       | Organization               | Duration | Period              |
+| ---------------------------------- | ---------- | -------------------------- | -------- | ------------------- |
+| Infrastructure Engineer - Database | Full-time  | GoTo Financial (Gopay)     | 3+ yrs   | Aug 2022 – Present  |
+| Infrastructure Engineer Intern     | Internship | Xendit                     | 3 months | Jun 2022 – Aug 2022 |
+| Backend Developer Intern           | Internship | Garena                     | 1 yr+    | May 2021 – Jun 2022 |
+| Programming Lab Assistant          | Assistant  | Institut Teknologi Bandung | 2 yrs    | Aug 2020 – Aug 2022 |
+| Backend Developer Intern           | Internship | Xtremax                    | 3 months | May 2020 – Aug 2020 |
 
 ## 🏆 Awards
 
-| Achievement | Scope | Name | Year | Description |
-|-------------|-------|------|------|-------------|
-| 22nd Place, Silver Medalist | Multi-National | ICPC Asia Singapore Regional | 2020 | Competitive Programming held by ACM ICPC - Binus |
-| Top 15 | National | National Data Science Competition (NDSC) | 2020 | Data Science competition held by Shopee |
-| 88th of 3700 teams | International | IEEEXTREME 14.0 International Competitive Programming Competition | 2020 | IEEEXtreme is a global challenge in which teams compete in a 24-hour time span against each other to solve a set of programming problems. |
-| 3rd Place | Local | ITB - NTUST Cloud Computing Hackathon | 2019 | Cloud Computing Hackathon held in ITB by NTUST Taiwan |
-| 13th Place | National | Cyber Security Community (CSC) BINUS | 2019 | Capture The Flag |
-| 3rd Place | National | Kompetisi Puzzle Klasik (KPK) | 2019 | pen-and-paper puzzle solving competition |
+| Achievement     | Scope           | Event                                    | Year | Notes                                   |
+| --------------- | --------------- | ---------------------------------------- | ---- | --------------------------------------- |
+| Silver Medalist | Regional (Asia) | ICPC Asia Singapore                      | 2020 | Top 12 Indonesian team ranking          |
+| Top 100 Global  | International   | IEEEXTREME 14.0                          | 2020 | 24h global programming marathon         |
+| Top 15          | National        | Shopee National Data Science Competition | 2020 | Data science & analytics challenge      |
+| 3rd Place       | Local           | ITB – NTUST Cloud Computing Hackathon    | 2019 | Built Alexa-integrated multiplayer game |
+| 3rd Place       | National        | Kompetisi Puzzle Klasik                  | 2019 | National puzzle solving contest         |
+
+## 🎓 Education
+
+| Institution                      | Program                                | Period              | Notes                                           |
+| -------------------------------- | -------------------------------------- | ------------------- | ----------------------------------------------- |
+| Institut Teknologi Bandung (ITB) | B.Comp.Sc. Informatics (GPA 3.78/4.00) | Aug 2018 – Aug 2022 | Algorithms, systems, software engineering focus |
+| Bangkit Academy, led by Google   | Cloud Computing Track                  | Feb 2021 – May 2021 | Selected 1 of 3,000 from 40K+ applicants        |
+
+## 🛡️ Certifications
+
+- Google IT Automation with Python
+- Cloud Engineering
+- Deploy and Manage Cloud Environments
+- Full certification record: [Qwiklabs Profile](https://www.qwiklabs.com/public_profiles/e8cd328e-d713-410d-815d-d6ae93b24b9a)
+
+## 🧠 Skills Snapshot
+
+Languages: Go (Golang), Python, TypeScript, SQL  
+Backend & APIs: gRPC, REST, Microservices, Event-driven patterns  
+Infrastructure: Kubernetes, Docker, Terraform, Ansible, Cloud Run, CI/CD (GitLab/GitHub)  
+Cloud: GCP, AWS, Alicloud  
+Datastores: PostgreSQL (HA), Redis (fleet ops), MySQL, MongoDB  
+Observability & Ops: Prometheus, Grafana, Logging, Tracing basics  
+Other: Platform Engineering, Automation, Competitive Programming
 
 ## ⚡ More Info
 
@@ -42,3 +68,6 @@ I'm [Jonathan Yudi Gunawan](https://jonathangun.github.io/), currently landed in
 
 You can also reach me via [Linkedin](https://www.linkedin.com/in/jonathanyudigun).
 
+---
+
+keywords: go, golang, python, typescript, react, node.js, next.js, kubernetes, docker, terraform, ansible, gcp, aws, alicloud, cloud run, ci/cd, gitlab, github actions, postgres, postgresql, mysql, redis, mongodb, kafka, grpc, rest api, microservices, platform engineering, site reliability engineering, sre, observability, prometheus, grafana, logging, automation, developer platform, infrastructure as code, cloud migration, cost optimization, performance tuning, distributed systems, llm, openai, anthropic, competitive programming
